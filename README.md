@@ -4,14 +4,14 @@ We will create a project that will take pictures every time you smile because ev
 This is a beginner-friendly machine learning project that will make use of the openCV library.
 
 
-Regarding the Project
+##Regarding the Project
 Describe OpenCV.
 An open-source computer vision library with a focus on real-time applications is called OpenCV.
 The primary areas of concentration include video collection and processing, as well as image processing and analysis (such as face and object detection).
 We don't need to bother about training and testing algorithms because it has a lot of built-in features and pre-trained models.
 
 
-Project requirements
+##Project requirements
 We must be aware of the following in order to carry out this project:
 1. Basic Python ideas; 2. Fundamentals of openCV.
 You may use pip installer from the command line to install the library: install opencv-python using pip
@@ -19,7 +19,7 @@ You may use pip installer from the command line to install the library: install 
 
 
 
-How to Develop the Project in Steps
+###How to Develop the Project in Steps
 
 Haarcascade_frontalface_default.xml and Haarcascade_smile.xml files are required for this project.
 Please download these files and the project code using the link provided in the previous step.
@@ -35,7 +35,7 @@ Adaboost Instruction
 Cascading Classifiers
 
 
-Steps Involved to implement Smile Detection and Selfie Capture Project
+###Steps Involved to implement Smile Detection and Selfie Capture Project
 
 1. The openCV library is initially imported.
 2. Next, launch the webcam using the cv2 function named VideoCapture in the second line.
