@@ -1,4 +1,4 @@
-# Smart-Auto-Selfie-capture-application-by-detecng-smile
+# Smart-Auto-Selfie-capture-application-by-detectinng-smile
 
 We will create a project that will take pictures every time you smile because everyone loves to see them.
 This is a beginner-friendly machine learning project that will make use of the openCV library.
